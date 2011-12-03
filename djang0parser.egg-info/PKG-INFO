@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: djang0parser
+Version: 0.3dev
+Summary: html sanitiezer from djang0byte
+Home-page: https://github.com/nvbn/djang0parser
+Author: Vladimir Yakovlev
+Author-email: nvbn.rm@gmail.com
+License: LGPL
+Description: UNKNOWN
+Keywords: django
+Platform: UNKNOWN

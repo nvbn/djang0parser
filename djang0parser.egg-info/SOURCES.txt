@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+djang0parser/__init__.py
+djang0parser.egg-info/PKG-INFO
+djang0parser.egg-info/SOURCES.txt
+djang0parser.egg-info/dependency_links.txt
+djang0parser.egg-info/entry_points.txt
+djang0parser.egg-info/top_level.txt
+djang0parser.egg-info/zip-safe
